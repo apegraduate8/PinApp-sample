@@ -2,4 +2,4 @@
 
 ### PinApp repos
 
-visit my site at [link](pin-anthony-app.herokuapp.com)
+visit my site at [link](http://pin-anthony-app.herokuapp.com/)
